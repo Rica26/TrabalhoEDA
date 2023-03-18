@@ -1,0 +1,6 @@
+﻿  Cliente.c
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\IPCA\EDA\EDA-UC\TrabalhoEDA\Cliente.c(231,19): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\IPCA\EDA\EDA-UC\TrabalhoEDA\Cliente.c(231,16): warning C4024: 'fscanf': different types for formal and actual parameter 1
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\IPCA\EDA\EDA-UC\TrabalhoEDA\Cliente.c(231,21): warning C4477: 'fscanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 4 has type 'float *'
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\IPCA\EDA\EDA-UC\TrabalhoEDA\Cliente.c(231,21): message : consider using '%f' in the format string
+  TrabalhoEDA.vcxproj -> C:\Users\kadit\OneDrive\Ambiente de Trabalho\IPCA\EDA\EDA-UC\TrabalhoEDA\x64\Debug\TrabalhoEDA.exe

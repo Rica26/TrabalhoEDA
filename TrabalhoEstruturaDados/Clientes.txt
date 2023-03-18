@@ -1,0 +1,2 @@
+123456789;Maria;Avenida da Régua;25.000000
+987654321;Jose;Benfica;36.000000
